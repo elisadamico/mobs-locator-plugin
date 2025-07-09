@@ -1,4 +1,4 @@
-package net.runelite.client.plugins.mobslocator;
+package com.mobslocator;
 
 import com.google.inject.Provides;
 import javax.inject.Inject;
