@@ -1,4 +1,4 @@
-package net.runelite.client.plugins.mobslocator;
+package com.mobslocator;
 
 import javax.inject.Inject;
 import java.awt.Color;
